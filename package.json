@@ -1,0 +1,23 @@
+{
+  "name": "img-gallery-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lane711/img-gallery-feed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lane711/img-gallery-feed/issues"
+  },
+  "homepage": "https://github.com/lane711/img-gallery-feed#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
